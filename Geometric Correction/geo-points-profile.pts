@@ -1,0 +1,10 @@
+; ENVI Image to Map GCP File
+; projection info = {UTM, 45, North, WGS-84, units=Meters}
+; warp file: D:\Hyperspectral Dataset\dumdum_airport_2010\Resize\resize_final
+; Map (x,y), Image (x,y)
+;
+       648069.8246      2497367.8129         83.000000       1425.000000
+       648364.2788      2497254.0849         93.600000       1426.600000
+       649495.4970      2496778.4721        133.800000       1435.000000
+       645650.6674      2495870.7424         17.000000       1487.400000
+       647000.6271      2492328.6252         85.800000       1590.600000

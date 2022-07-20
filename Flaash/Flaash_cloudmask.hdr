@@ -1,0 +1,24 @@
+ENVI
+description = {
+  FLAASH Cloud Classification Map [Wed Jul 20 11:25:36 2022]}
+samples = 256
+lines   = 800
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 8
+class lookup = {
+   0,   0,   0,   0,   0, 255,   0, 255,   0,   0, 255, 255, 255,   0,   0,
+ 255,   0, 255, 255, 255,   0, 255, 255, 255}
+class names = {
+ No Clouds, High Altitude Clouds (Cirrus or Tall Cumulus), Opaque Clouds, 
+ Opaque and High Altitude Clouds, Water Retrieval Error, 
+ Water Retrieval Error and High Clouds, 
+ Water Retrieval Error and Opaque Clouds, 
+ Water Retrieval Error and Both Cloud Types}
+byte order = 0
+y start = 1196
+wavelength units = Unknown
